@@ -30,7 +30,7 @@ To run this project on your machine, you'll need **Node.js** (version 18+ recomm
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/apollo-cli.git](https://github.com/YOUR_USERNAME/apollo-cli.git)
+   git clone [https://github.com/carlusnz-dev/apollo-cli.git](https://github.com/carlusnz-dev/apollo-cli.git)
    cd apollo-cli
    ```
 
