@@ -1,0 +1,27 @@
+{
+  "name": "apollo-cli",
+  "version": "1.0.0",
+  "description": "Apol - Meu CLI pessoal para facilitar minha vida",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "apollo": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "^1.2.0",
+    "commander": "^14.0.3",
+    "zx": "^8.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  }
+}
